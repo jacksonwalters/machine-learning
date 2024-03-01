@@ -1,5 +1,5 @@
-mnist/mnist_train.csv
-mnist/mnist_test.csv
+mnist/mnist_data/mnist_train.csv
+mnist/mnist_data/mnist_test.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
