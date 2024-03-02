@@ -12,8 +12,11 @@ Second project will be for mental health data, attempting to cluster and identif
 PAPERS:
 *https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6783390/
 
-DATA SOURCES:
+GENERAL DATA SOURCES:
 *https://www.cdc.gov/mentalhealth/data_publications/index.htm
 *https://www.datafiles.samhsa.gov
+
+CHOSEN DATASETS:
+*Mental-Health Client Level Data - https://www.datafiles.samhsa.gov/dataset/mental-health-client-level-data-2021-mh-cld-2021-ds0001
 
 ---
