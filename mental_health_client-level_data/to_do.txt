@@ -1,2 +1,5 @@
 ML classifier:
     - get MD input on misclassification cost
+    - use all 2^13 classes
+    - drop all but one target class
+    - ask on Cross Validated how to handle multiple Boolean classes
