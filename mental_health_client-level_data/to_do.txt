@@ -1,3 +1,2 @@
-ML classifier
-    - output probabilities
+ML classifier:
     - get MD input on misclassification cost
