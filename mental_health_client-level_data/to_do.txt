@@ -1,5 +1,4 @@
 ML classifier:
     - get MD input on misclassification cost
-    - drop all but one disorder target class
-    - multivariate probit regression (?)
+    - implement *multi-label* probit model (assuming dependence between disorders, NOT multi-output)
     - train DNN for classification
