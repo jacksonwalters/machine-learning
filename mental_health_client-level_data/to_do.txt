@@ -1,4 +1,3 @@
 ML classifier:
     - get MD input on misclassification cost
-    - implement *multi-label* probit model (assuming dependence between disorders, NOT multi-output)
     - train DNN for classification
