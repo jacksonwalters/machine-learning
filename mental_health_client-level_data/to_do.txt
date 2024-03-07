@@ -1,3 +1,4 @@
 ML classifier:
     - get MD input on misclassification cost
+    - use class_weight for unbalanced classes
     - train DNN for classification
