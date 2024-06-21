@@ -1,0 +1,13 @@
+PROJECT PROPOSAL:
+
+use Python tools with built-in signal processing libraries to do equivalent of CETI work in MATLAB
+
+DATA:
+
+https://drive.google.com/drive/folders/1HkGZcpYbrft3pGtqdt45bUZXVcrJVrdm
+
+FIRST STEP:
+
+detect peaks, or beginning of each click. try anomaly detector ADTK.
+
+- ask Ryan Mickler about anomaly detection and how it might relate to MATLAB code/paper
