@@ -2,10 +2,10 @@
 Example machine learning projects in Python with tensorflow and other tools
 
 PROJECTS:
- - IBM ML and DS professional certifications
- - Enefit Kaggle energy prosumer competition
- - t-SNE maps with SAMHSA mental health data
- - MNIST handwriting digit recognition
+ - *IBM ML and DS professional certifications*
+ - *Enefit Kaggle energy prosumer competition*
+ - *t-SNE maps with SAMHSA mental health data*
+ - *MNIST handwriting digit recognition*
 
 HOW TO USE t-SNE:
  - https://distill.pub/2016/misread-tsne/
