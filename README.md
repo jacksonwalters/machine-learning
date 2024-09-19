@@ -1,16 +1,14 @@
 # machine learning certs and examples
-Examples of t-distributed stochastic neighbor embedding plots in pure Python
+Example machine learning projects in Python with tensorflow and other tools
 
-Tutorial: https://medium.com/@violante.andre/an-introduction-to-t-sne-with-python-example-47e6ae7dc58f
-
-MNIST Data: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
-
----
-
-Second project will be for mental health data, attempting to cluster and identify named mental health disorders such as schizophrenia, schizoaffective, bipolar, etc. given symptom data. Perhaps will add in life factors such as income, housing, health insurance which we hypothesize will positively correlate with good mental health.
+PROJECTS:
+ - Enefit Kaggle energy prosumer competition
+ - t-SNE maps with SAMHSA mental health data
+ - MNIST handwriting digit recognition
 
 HOW TO USE t-SNE:
  - https://distill.pub/2016/misread-tsne/
+ - https://medium.com/@violante.andre/an-introduction-to-t-sne-with-python-example-47e6ae7dc58f
 
 PAPERS:
  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6783390/
