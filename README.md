@@ -2,6 +2,7 @@
 Example machine learning projects in Python with tensorflow and other tools
 
 PROJECTS:
+ - IBM ML and DS professional certifications
  - Enefit Kaggle energy prosumer competition
  - t-SNE maps with SAMHSA mental health data
  - MNIST handwriting digit recognition
