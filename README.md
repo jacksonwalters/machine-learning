@@ -20,9 +20,11 @@ GENERAL DATA SOURCES:
  - https://www.datafiles.samhsa.gov
 
 CHOSEN DATASETS:
-
  - MNIST Handwritten Digits: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
  - National Health and Nutrition Survey: https://www.cdc.gov/nchs/nhanes/index.htm
  - Mental-Health Client Level Data - https://www.datafiles.samhsa.gov/dataset/mental-health-client-level-data-2021-mh-cld-2021-ds0001
+
+KAGGLE COMPETITIONS:
+ - https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers
 
 ---
